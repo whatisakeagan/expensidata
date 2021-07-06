@@ -1,6 +1,5 @@
 # PLEASE NOTE:
-This repository is no longer utilized and is meant for skill representation and experiential history only. I created 100% of its contents independently, and its primary use began in 2018. While I used it in my official capacity as an employee of Expensify, it bears no historical or current official or legal endorsement by or representation of Expensify, Inc. All sensitive information has been redacted.
-
+## This repository is no longer utilized and is meant for skill representation and experiential history only. I created 100% of its contents independently, and its primary use began in 2018. While I used it in my official capacity as an employee of Expensify, it bears no historical or current official or legal endorsement by or representation of Expensify, Inc. All sensitive information has been redacted.
 -------------------------------------------------------
 
 ## Welcome to ExpensiData!
