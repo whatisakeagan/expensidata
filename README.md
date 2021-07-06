@@ -1,5 +1,10 @@
+# PLEASE NOTE:
+This repository is no longer utilized and is meant for skill representation and experiential history only. I created 100% of its contents independently, and its primary use began in 2018. While I used it in my official capacity as an employee of Expensify, it bears no historical or current official or legal endorsement by or representation of Expensify, Inc. All sensitive information has been redacted.
+
+-------------------------------------------------------
+
 ## Welcome to ExpensiData!
-This private repository contains the scripts I use to process data. If you've never run one of these before, you'll want to get yourself set up.
+This repository contains the scripts I use to process data. If you've never run one of these before, you'll want to get yourself set up.
 
 ### First, download the programs you need
 1. Download [R](http://cran.cnr.berkeley.edu/). This is the program that does all the work.
