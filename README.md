@@ -1,5 +1,5 @@
 ## Welcome to ExpensiData!
-This private repository contains the scripts I use to process data. If you've never run one of these before, you'll want to get yourself set up.
+This repository contains the scripts I use to process data. If you've never run one of these before, you'll want to get yourself set up.
 
 ### First, download the programs you need
 1. Download [R](http://cran.cnr.berkeley.edu/). This is the program that does all the work.
